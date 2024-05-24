@@ -6,4 +6,6 @@
 3. 배열에서 나올 수 있는 모든 경우를 확인할 동안 *몇 개의 소수가 나왔는지* 판별하기
 
 출력 예시
+
+
 <img width="239" alt="image" src="https://github.com/gangd0dan/-1/assets/165370829/1a06177e-81fd-4ddb-8afa-bb612094fbb1">
